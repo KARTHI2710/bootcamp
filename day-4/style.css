@@ -56,6 +56,10 @@ svg{
     border: none;
     border-bottom: 1px solid rgba(0, 0, 0, 0.322);
     outline: none;
+    /* background-image: url('user.svg');
+    background-position: 10px 10px; 
+    background-repeat: no-repeat;
+    margin-left: -10px; */
    
 }
 .forget-pass{
